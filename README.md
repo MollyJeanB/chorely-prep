@@ -12,7 +12,7 @@ Wireframes, user flows, and Sketch App design mock-ups for Chorely, a web app th
 ## Chart Page
 ![alt text](/images/05_chart_desktop.png "Chart page desktop view wireframe")
 ![alt text](/images/06_chart_mobile.png "Chart Page mobile view wireframe")
-![alt text](/images/07_chart_userFlow "Chart Page user flow")
+![alt text](/images/07_chart_userFlow.png "Chart Page user flow")
 
 ## Stats Page
 ![alt text](/images/09_stats_desktop.png "Stats Page desktop view wireframe")
